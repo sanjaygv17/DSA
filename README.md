@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
