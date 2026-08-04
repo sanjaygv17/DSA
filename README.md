@@ -16,15 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Hash Table
@@ -38,9 +41,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
