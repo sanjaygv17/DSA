@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjaygv17/DSA/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
+## Sorting
+|  |
+| ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
