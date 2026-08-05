@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjaygv17/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaygv17/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sanjaygv17/DSA/tree/master/0520-detect-capital) |
 ## Stack
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
