@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaygv17/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanjaygv17/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sanjaygv17/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sanjaygv17/DSA/tree/master/0263-ugly-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaygv17/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
