@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0707-design-linked-list) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sanjaygv17/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
