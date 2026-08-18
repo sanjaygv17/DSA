@@ -1,73 +1,79 @@
-class ListNode {
-    int val;
-    ListNode next;
-    
-    ListNode(int val) {
-        this.val = val;
-        this.next = null;
-    }
-}
-class MyLinkedList {
-     private int size;
-    private ListNode dummy;
 
-    public MyLinkedList() {
-         this.size = 0;
-        this.dummy = new ListNode(0);
-    }
-    
-    public int get(int index) {
-         if (index < 0 || index >= size) {
-            return -1;
-         }
-         ListNode curr = dummy.next;
-        for (int i = 0; i < index; i++) {
-            curr = curr.next;
+  class Node{
+         int val;
+         Node next;
+
+        Node(int val){
+            this.val=val;
+            this.next=null;
         }
-        return curr.val;
+       
+    }
+    class MyLinkedList {
+        Node head;
+        int size;
+
+  
+
+    public MyLinkedList(){
+        this.size=0;
+        this.head=new Node(0);
+    }
+         
+           
+         
+        
+    
+    
+       public int get(int index) {
+        if (index < 0 || index >= size) {
+            return -1;
+        }
+
+        Node current = head.next; 
+        for (int i = 0; i < index; i++) {
+            current = current.next;
+        }
+
+        return current.val;
     }
     
     public void addAtHead(int val) {
-        addAtIndex(0, val);
+      addAtIndex(0,val);
+        
     }
     
     public void addAtTail(int val) {
-         addAtIndex(size, val);
+    addAtIndex(size,val);
     }
     
     public void addAtIndex(int index, int val) {
-          if (index > size) {
+        Node newNode=new Node(val);
+        if(index > size){
             return;
         }
-        if (index < 0) {
-            index = 0;
+        if(index<0){
+            index=0;
         }
-        
-        ListNode pred = dummy;
-        for (int i = 0; i < index; i++) {
-            pred = pred.next;
+        Node current=head;
+        for(int i=0;i<index;i++){
+            current=current.next;
         }
-        
-        ListNode newNode = new ListNode(val);
-        newNode.next = pred.next;
-        pred.next = newNode;
-        
+        newNode.next=current.next;
+        current.next=newNode;
         size++;
     }
     
     public void deleteAtIndex(int index) {
-        if (index < 0 || index >= size) {
+         if(index < 0 || index>=size){
             return;
         }
-        ListNode pred = dummy;
-        for (int i = 0; i < index; i++) {
-            pred = pred.next;
+        Node current=head;
+        for(int i=0;i<index;i++){
+            current=current.next;
         }
-        
-        pred.next = pred.next.next;
-        
+        current.next=current.next.next;
         size--;
-        
     }
 }
 
