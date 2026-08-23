@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanjaygv17/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sanjaygv17/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sanjaygv17/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sanjaygv17/DSA/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanjaygv17/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Counting Sort
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/sanjaygv17/DSA/tree/master/0382-linked-list-random-node) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
