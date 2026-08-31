@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sanjaygv17/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sanjaygv17/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjaygv17/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sanjaygv17/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjaygv17/DSA/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
