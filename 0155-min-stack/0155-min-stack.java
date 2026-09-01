@@ -1,56 +1,39 @@
-class MinStack {
-    protected int[] data;
-    private static final int DEFAULT_SIZE=10;
+import java.util.Deque;
+import java.util.ArrayDeque;
 
-    int ptr=-1;
+class MinStack {
+    
+    private Deque<Integer> stack;
+    private int min;
+
 
     public MinStack() {
-        this.data=new int[DEFAULT_SIZE];
-       
+        this.stack=new ArrayDeque<>();
+        this.min=Integer.MAX_VALUE;
     }
     
     public void push(int value) {
-        if(isFull()){
-            int[] temp=new int[data.length*2];
-            for(int i=0;i<data.length;i++){
-                temp[i]=data[i];
-            }
-            data=temp;
+        if(value<=min){
+            stack.push(min);
+            min=value;
         }
-        ptr++;
-        data[ptr]=value;
-
+        stack.push(value);
+        
         
     }
     
     public void pop() {
-      if(isEmpty()){
-        return;
-      }  
-
-      ptr--;
+        if( stack.pop() == min){
+          min = stack.pop();
+    }
     }
     
     public int top() {
-        return data[ptr];
+        return stack.peek();
     }
     
     public int getMin() {
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<=ptr;i++){
-            if(data[i]<min){
-                min=data[i];
-            }
-        }
         return min;
-        
-    }
-    public boolean isFull(){
-        return ptr == data.length-1;
-    }
-    
-    public boolean isEmpty(){
-        return ptr == -1;
     }
 }
 
