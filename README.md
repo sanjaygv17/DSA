@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjaygv17/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaygv17/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaygv17/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sanjaygv17/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaygv17/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0234-palindrome-linked-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sanjaygv17/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/sanjaygv17/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjaygv17/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjaygv17/DSA/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaygv17/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sanjaygv17/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sanjaygv17/DSA/tree/master/0204-count-primes) |
