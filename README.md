@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaygv17/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sanjaygv17/DSA/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjaygv17/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/sanjaygv17/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sanjaygv17/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sanjaygv17/DSA/tree/master/0739-daily-temperatures) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 ## Hash Table
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sanjaygv17/DSA/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/sanjaygv17/DSA/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/sanjaygv17/DSA/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaygv17/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjaygv17/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Floyd's Cycle Finding Algorithm
