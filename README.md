@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sanjaygv17/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaygv17/DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/sanjaygv17/DSA/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/sanjaygv17/DSA/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sanjaygv17/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaygv17/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sanjaygv17/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sanjaygv17/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sanjaygv17/DSA/tree/master/0739-daily-temperatures) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sanjaygv17/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/sanjaygv17/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sanjaygv17/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
