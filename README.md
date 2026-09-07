@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjaygv17/DSA/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sanjaygv17/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjaygv17/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/sanjaygv17/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sanjaygv17/DSA/tree/master/0125-valid-palindrome) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjaygv17/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sanjaygv17/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
