@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaygv17/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjaygv17/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3870-count-commas-in-range](https://github.com/sanjaygv17/DSA/tree/master/3870-count-commas-in-range) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
