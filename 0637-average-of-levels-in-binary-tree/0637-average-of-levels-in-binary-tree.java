@@ -27,7 +27,6 @@ class Solution {
 
         while(!queue.isEmpty()){
             int level=queue.size();
-            int value=queue.size();
             Double current=0.0;
             for(int i=0;i<level;i++){
                 TreeNode currentNode=queue.poll();
@@ -39,7 +38,7 @@ class Solution {
                     queue.offer(currentNode.right);
                 }
             }
-            ans.add(current/value);
+            ans.add(current/level);
         }
 
         return ans;
