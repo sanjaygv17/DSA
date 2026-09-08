@@ -28,5 +28,6 @@ class Solution {
         pre(node.left,ans);
         ans.add(node.val);
         pre(node.right,ans);
+        
     }
     }
