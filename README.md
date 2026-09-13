@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sanjaygv17/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sanjaygv17/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sanjaygv17/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/sanjaygv17/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/sanjaygv17/DSA/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaygv17/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/sanjaygv17/DSA/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
