@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjaygv17/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanjaygv17/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sanjaygv17/DSA/tree/master/0509-fibonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaygv17/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
