@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjaygv17/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjaygv17/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/sanjaygv17/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaygv17/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/sanjaygv17/DSA/tree/master/0202-happy-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanjaygv17/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanjaygv17/DSA/tree/master/0509-fibonacci-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaygv17/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanjaygv17/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sanjaygv17/DSA/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
