@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjaygv17/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanjaygv17/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaygv17/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sanjaygv17/DSA/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanjaygv17/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/sanjaygv17/DSA/tree/master/1603-design-parking-system) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanjaygv17/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Quicksort
 |  |
 | ------- |
