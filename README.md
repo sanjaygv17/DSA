@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sanjaygv17/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjaygv17/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaygv17/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanjaygv17/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sanjaygv17/DSA/tree/master/0682-baseball-game) |
 | [1603-design-parking-system](https://github.com/sanjaygv17/DSA/tree/master/1603-design-parking-system) |
+| [3498-reverse-degree-of-a-string](https://github.com/sanjaygv17/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
