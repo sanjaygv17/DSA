@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanjaygv17/DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaygv17/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sanjaygv17/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/sanjaygv17/DSA/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/sanjaygv17/DSA/tree/master/0520-detect-capital) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sanjaygv17/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjaygv17/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0707-design-linked-list) |
 | [1603-design-parking-system](https://github.com/sanjaygv17/DSA/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjaygv17/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjaygv17/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanjaygv17/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaygv17/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaygv17/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanjaygv17/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Queue
 |  |
