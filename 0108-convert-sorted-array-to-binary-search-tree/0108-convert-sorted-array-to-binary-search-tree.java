@@ -15,22 +15,20 @@
  */
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
-       
         return helper(nums,0,nums.length-1);
     }
 
-    public TreeNode helper(int[] nums,int left,int right){
-            if(left>right){
-                return null;
-            }
+    public TreeNode helper(int[] nums,int low,int high){
+       if(low>high){
+            return null;
+       }
+        int mid=low+(high-low)/2;
 
-            int mid=left+(right-left)/2;
+        TreeNode root=new TreeNode(nums[mid]);
 
-            TreeNode root=new TreeNode(nums[mid]);
+        root.left=helper(nums,low,mid-1);
+        root.right=helper(nums,mid+1,high);
 
-            root.left =helper(nums,left,mid-1);
-            root.right=helper(nums,mid+1,right);
-
-            return root;
+        return root;
     }
 }
