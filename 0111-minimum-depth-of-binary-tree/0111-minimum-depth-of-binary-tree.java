@@ -15,24 +15,31 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        return helper(root);
-    }
-
-    public int helper(TreeNode node){
-        if(node == null){
+        if(root == null){
             return 0;
         }
 
-        int left=helper(node.left);
-        int right=helper(node.right);
+        Queue<TreeNode> queue=new LinkedList<>();
+        queue.offer(root);
+        int depth=1;
 
-        if(left == 0){
-            return right+1;
-        }
-        if(right == 0){
-            return left+1;
+        while(!queue.isEmpty()){
+            int level=queue.size();
+            for(int i=0;i<level;i++){
+                TreeNode current=queue.poll();
+                if(current.left == null && current.right == null){
+                    return depth;
+                }
+                if( current.left != null){
+                    queue.offer(current.left);
+                }
+                if(current.right != null){
+                    queue.offer(current.right);
+                }
+            }
+            depth++;
         }
 
-        return Math.min(left,right)+1;
+        return depth;
     }
 }
