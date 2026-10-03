@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaygv17/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1901-find-a-peak-element-ii](https://github.com/sanjaygv17/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaygv17/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/sanjaygv17/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sanjaygv17/DSA/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/sanjaygv17/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaygv17/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sanjaygv17/DSA/tree/master/0835-image-overlap) |
+| [1901-find-a-peak-element-ii](https://github.com/sanjaygv17/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## DP on Trees
 |  |
 | ------- |
