@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaygv17/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sanjaygv17/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sanjaygv17/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanjaygv17/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sanjaygv17/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sanjaygv17/DSA/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/sanjaygv17/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sanjaygv17/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sanjaygv17/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sanjaygv17/DSA/tree/master/0344-reverse-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanjaygv17/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaygv17/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/sanjaygv17/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sanjaygv17/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sanjaygv17/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sanjaygv17/DSA/tree/master/0263-ugly-number) |
