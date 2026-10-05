@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
+| [0436-find-right-interval](https://github.com/sanjaygv17/DSA/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/sanjaygv17/DSA/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [0682-baseball-game](https://github.com/sanjaygv17/DSA/tree/master/0682-baseball-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanjaygv17/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanjaygv17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaygv17/DSA/tree/master/0242-valid-anagram) |
+| [0436-find-right-interval](https://github.com/sanjaygv17/DSA/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/sanjaygv17/DSA/tree/master/0539-minimum-time-difference) |
 | [0922-sort-array-by-parity-ii](https://github.com/sanjaygv17/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/sanjaygv17/DSA/tree/master/1122-relative-sort-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjaygv17/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaygv17/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0436-find-right-interval](https://github.com/sanjaygv17/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/sanjaygv17/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sanjaygv17/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanjaygv17/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
