@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaygv17/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sanjaygv17/DSA/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sanjaygv17/DSA/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/sanjaygv17/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sanjaygv17/DSA/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaygv17/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjaygv17/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjaygv17/DSA/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/sanjaygv17/DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/sanjaygv17/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaygv17/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sanjaygv17/DSA/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/sanjaygv17/DSA/tree/master/0682-baseball-game) |
 | [1603-design-parking-system](https://github.com/sanjaygv17/DSA/tree/master/1603-design-parking-system) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaygv17/DSA/tree/master/3498-reverse-degree-of-a-string) |
