@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjaygv17/DSA/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaygv17/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjaygv17/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/sanjaygv17/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sanjaygv17/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sanjaygv17/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjaygv17/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sanjaygv17/DSA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sanjaygv17/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjaygv17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/sanjaygv17/DSA/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/sanjaygv17/DSA/tree/master/0704-binary-search) |
